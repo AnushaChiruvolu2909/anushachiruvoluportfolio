@@ -28,7 +28,7 @@
   }
 
   .home__profile {
-    height: auto;
+    height: 500px !important;
   }
 }
 

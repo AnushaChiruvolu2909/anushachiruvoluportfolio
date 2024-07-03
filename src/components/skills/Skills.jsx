@@ -18,7 +18,8 @@ const Skills = () => {
               <div className='skills__titles'>
                 <h3 className='skills__name'>{name}</h3>
                 <span className='skills__number'>
-                  {percentage}
+                {percentage} <span>%</span>
+
                 </span>
               </div>
 
@@ -27,7 +28,7 @@ const Skills = () => {
               <div className='skills__bar'>
                 <span
                   className='skills__percentage'
-                  style={{ width: `${percentage}` }}
+                  style={{ width: `${percentage}%` }}
                 >
                   <span></span>
                 </span>

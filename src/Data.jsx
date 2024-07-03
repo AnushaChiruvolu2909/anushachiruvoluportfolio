@@ -79,21 +79,21 @@ export const skills = [
   {
     id: 7,
     name: 'ReactJS ',
-    percentage: 'Experienced',
+    percentage: 75,
     description:
       'Developing interactive UIs and managing state with React and Redux.',
   },
   {
     id: 6,
     name: 'Angular',
-    percentage: 'Experienced',
+    percentage: 80,
     description:
       'Building dynamic, single-page applications with Angular.',
   },
   {
     id: 3,
     name: 'JavaScript (ES6+)',
-    percentage: 'Experienced',
+    percentage: 80,
     description:
       'Writing clean, efficient code using modern JavaScript features and syntax.',
   },
@@ -102,14 +102,14 @@ export const skills = [
   {
     id: 4,
     name: 'TypeScript',
-    percentage: 'Experienced',
+    percentage: 75,
     description:
       'Leveraging static typing for better code quality and maintainability',
   },
   {
     id: 14,
     name: 'Figma',
-    percentage: 'Beginner',
+    percentage: 65,
     description:
       'Designing user interfaces and user experiences with Figma.',
   },
@@ -117,14 +117,14 @@ export const skills = [
   {
     id: 15,
     name: 'Adobe XD ',
-    percentage: 'Experienced',
+    percentage: 65,
     description:
       'Creating prototypes and visual designs using Adobe XD.',
   },
   {
     id: 1,
     name: 'HTML',
-    percentage: 'Experienced',
+    percentage: 85,
     description:
       'Developing semantic and accessible web pages using HTML5',
   },
@@ -132,7 +132,7 @@ export const skills = [
   {
     id: 2,
     name: 'CSS3',
-    percentage: 'Experienced',
+    percentage: 85,
     description:
       'Styling responsive and visually appealing layouts with modern CSS techniques.',
   },
@@ -141,7 +141,7 @@ export const skills = [
   {
     id: 5,
     name: 'Bootstrap',
-    percentage: 'Experienced',
+    percentage: 75,
     description:
       'Utilizing the Bootstrap framework for responsive, mobile-first web development.',
   },
@@ -152,7 +152,7 @@ export const skills = [
   {
     id: 8,
     name: 'jQuery',
-    percentage: 'Intermediate',
+    percentage: 50,
     description:
       'Enhancing web pages with jQuery for DOM manipulation and event handling.',
   },
@@ -160,14 +160,14 @@ export const skills = [
   {
     id: 9,
     name: 'Apex ',
-    percentage: 'Intermediate',
+    percentage: 65,
     description:
       'Writing server-side code and integrating with Salesforce using Apex.',
   },
   {
     id: 10,
     name: 'LWC  ',
-    percentage: 'Intermediate',
+    percentage: 85,
     description:
       'Developing modern, reusable components with Salesforce Lightning Web Components.',
   },
@@ -175,7 +175,7 @@ export const skills = [
   {
     id: 11,
     name: 'Express.js',
-    percentage: 'Beginner',
+    percentage: 35,
     description:
       'Building basic server-side applications with Express.js.',
   },
@@ -183,14 +183,14 @@ export const skills = [
   {
     id: 12,
     name: 'Kendo, Material, Ionic',
-    percentage: 'Experienced',
+    percentage: 90,
     description:
       'Utilizing component libraries and frameworks for enhanced UI/UX.',
   },
   {
     id: 13,
     name: 'GitHub, GIT',
-    percentage: 'Experienced',
+    percentage: 85,
     description:
       'Version control, branching, and collaboration using Git and GitHub.',
   },
