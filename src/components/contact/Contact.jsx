@@ -61,8 +61,6 @@ const Contact = () => {
               <FaRegUser />
             </span>
 
-            <h3 className='contact__card-title'>Freelance</h3>
-            <p className='contact__card-data'>Available Right Now</p>
           </div>
 
           <div className='contact__card'>
@@ -137,7 +135,6 @@ const Contact = () => {
           </div>
 
           <div className='contact__submit'>
-            <p>* Accept the terms and conditions.</p>
             <button type='submit' className='btn contact__btn text-cs'>
               Send Message
             </button>

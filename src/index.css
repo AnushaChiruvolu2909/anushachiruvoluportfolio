@@ -30,6 +30,9 @@
   .home__profile {
     height: 427px !important;
   }
+  .swiper-slide {
+margin-right: 10px;
+  }
 }
 
 @media screen and (max-width: 1200px) {
