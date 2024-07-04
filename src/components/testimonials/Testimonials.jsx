@@ -20,7 +20,7 @@ const Testimonials = () => {
     <section className='testimonials section' id='testimonial'>
       <h2 className='section__title text-cs'>Testimonials</h2>
       <p className='section__subtitle'>
-        My <span>Customers Say</span>
+        My <span>Clients Say</span>
       </p>
 
       <Swiper

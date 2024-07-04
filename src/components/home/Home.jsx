@@ -84,17 +84,7 @@ const Home = () => {
               Download CV
             </a>
 
-            <Link
-              className='hero__link text-cs'
-              to='skills'
-              spy={true}
-              hashSpy={true}
-              smooth={true}
-              offset={-150}
-              duration={500}
-            >
-              My Skills
-            </Link>
+            
           </div>
         </div>
 

@@ -202,7 +202,7 @@ export const projects = [
   {
     id: 1,
     img: Project1,
-    category: 'Citibank., Toronto, Ontario',
+    category: 'Canada',
     title: 'Senior Front-End Developer / UI/UX Lead',
     description:
       'Project : FinFusion - Next-Generation Digital Banking Experience',
@@ -210,7 +210,7 @@ export const projects = [
   {
     id: 2,
     img: Project2,
-    category: 'Salesforce, Inc., Hyderabad, India',
+    category: 'India',
     title: 'Demo Engineer',
     description:
       'Project :Integrated Force.com Solutions: End-to-End Salesforce Development & Support',
@@ -218,7 +218,7 @@ export const projects = [
   {
     id: 3,
     img: Project4,
-    category: 'Infosys Pvt. Ltd, Hyderabad, India',
+    category: 'India',
     title: 'Senior Front-End Developer / UI Specialist',
     description:
       'Project :ARCH Insurance, Arch Cap Group',
@@ -226,7 +226,7 @@ export const projects = [
   {
     id: 4,
     img: Project3,
-    category: 'KJ Systems Pvt Ltd., Hyderabad, India',
+    category: 'India',
     title: 'Front End Developer & UI/UX Designer',
     description:
       'Project 1: EHR Your Way, Medical Office Solutions & APIT Portal Application, Andhra Pradesh Government ',
@@ -266,15 +266,23 @@ export const cv = [
   },
 
   {
-    id: 3,
-    title: 'Front End Developer & UI/UX Designer',
-    subtitle: 'KJ Systems Pvt Ltd., Hyderabad, India',
-    date: 'August 2014 - December 2018',
+    id: 6,
+    title: 'Senior Front-End Developer / UI/UX Lead',
+    subtitle: 'Citibank, Toronto, ON',
+    date: 'February 2023 - March 2024',
     description:
-      'Led the digitization of patient records with the "EHR Your Way" system, improving practice efficiency through advanced data analytics and seamless integration of web services in Workday.Designed and developed the "APIT Portal Application" to streamline investor incentive applications, leveraging React JS and Bootstrap for enhanced user experience and application performance, aligned with government specifications.',
+      'Led the development of responsive online banking applications using Angular and React, optimizing user engagement and navigation. Integrated secure APIs and streamlined performance for enhanced data visualization and compliance with financial standards.',
     category: 'experience',
   },
-
+  {
+    id: 5,
+    title: 'Demo Engineer',
+    subtitle: 'Salesforce, Inc., Hyderabad, India',
+    date: 'February 2022 - February 2023',
+    description:
+      'Led Salesforce trigger framework design and implementation, optimizing data handling. Developed dynamic Lightning components, integrated with Visualforce pages for enhanced UI/UX, and automated Email to Case processes, boosting efficiency.',
+    category: 'experience',
+  },
   {
     id: 4,
     title: 'Senior Front-End Developer / UI Specialist',
@@ -284,26 +292,17 @@ export const cv = [
       'Led digital transformation efforts at Arch Insurance Company, enhancing operational efficiency through innovative solutions and automation of critical business processes in Workday.',
     category: 'experience',
   },
-
   {
-    id: 5,
-    title: 'Senior Front-End Developer',
-    subtitle: 'Salesforce, Inc., Hyderabad, India',
-    date: 'February 2022 - February 2023',
+    id: 3,
+    title: 'Front End Developer & UI/UX Designer',
+    subtitle: 'KJ Systems Pvt Ltd., Hyderabad, India',
+    date: 'August 2014 - December 2018',
     description:
-      'Led Salesforce trigger framework design and implementation, optimizing data handling. Developed dynamic Lightning components, integrated with Visualforce pages for enhanced UI/UX, and automated Email to Case processes, boosting efficiency.',
+      'Led the digitization of patient records with the "EHR Your Way" system, improving practice efficiency through advanced data analytics and seamless integration of web services in Workday.Designed and developed the "APIT Portal Application" to streamline investor incentive applications, leveraging React JS and Bootstrap for enhanced user experience and application performance, aligned with government specifications.',
     category: 'experience',
   },
 
-  {
-    id: 6,
-    title: 'Senior Front-End Developer / UI/UX Lead',
-    subtitle: 'Citibank, Toronto, ON',
-    date: 'February 2023 - March 2024',
-    description:
-      'Led the development of responsive online banking applications using Angular and React, optimizing user engagement and navigation. Integrated secure APIs and streamlined performance for enhanced data visualization and compliance with financial standards.',
-    category: 'experience',
-  },
+
 ];
 
 export const testimonials = [
