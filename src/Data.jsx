@@ -4,7 +4,6 @@ import Project3 from './assets/ehr-your-way.png';
 import Project4 from './assets/logo-infosys.png';
 
 import Testimonial1 from './assets/Siddhartha.jpg';
-import Testimonial2 from './assets/ravi.jpg';
 import Testimonial3 from './assets/krishna.jpg';
 import Testimonial4 from './assets/lakshmi.jpg';
 import Testimonial5 from './assets/prasanth.webp';
@@ -199,14 +198,7 @@ export const skills = [
 ];
 
 export const projects = [
-  {
-    id: 1,
-    img: Project1,
-    category: 'Canada',
-    title: 'Senior Front-End Developer / UI/UX Lead',
-    description:
-      'Project : FinFusion - Next-Generation Digital Banking Experience',
-  },
+ 
   {
     id: 2,
     img: Project2,
@@ -265,15 +257,7 @@ export const cv = [
     category: 'education',
   },
 
-  {
-    id: 6,
-    title: 'Senior Front-End Developer / UI/UX Lead',
-    subtitle: 'Citibank, Toronto, ON',
-    date: 'February 2023 - March 2024',
-    description:
-      'Led the development of responsive online banking applications using Angular and React, optimizing user engagement and navigation. Integrated secure APIs and streamlined performance for enhanced data visualization and compliance with financial standards.',
-    category: 'experience',
-  },
+ 
   {
     id: 5,
     title: 'Demo Engineer',
@@ -314,14 +298,7 @@ export const testimonials = [
     description:
       'Anushas expertise in front-end development is truly exceptional. Her ability to seamlessly integrate complex UI components using Angular and React has significantly elevated our projects user experience',
   },
-  {
-    id: 2,
-    img: Testimonial2,
-    name: 'Ravi A',
-    author: 'Designer, Citi Bank',
-    description:
-      'Working with Anusha was a pleasure. Her proficiency in WordPress allowed us to create a customized website that perfectly matched our brands identity.Her attention to detail to delivering on time were impressive.',
-  },
+ 
   {
     id: 3,
     img: Testimonial3,

@@ -7,7 +7,7 @@ import { Link } from 'react-scroll';
 import { CiLinkedin   } from 'react-icons/ci';
 import { FaGithub } from "react-icons/fa";
 
-import CV from '../../assets/Anusha Chiruvolu Resume.pdf';
+import CV from '../../assets/Anusha Ch Resume.pdf';
 import './home.css';
 
 const Home = () => {
