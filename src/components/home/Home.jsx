@@ -16,7 +16,7 @@ const Home = () => {
       <div className='home__wrapper'>
         <div className='home__container container'>
           <p className='home__subtitle text-cs'>
-            Hello, <span>My Name Is</span>
+            Hello, <span>My Name Is </span>
           </p>
 
           <h1 className='home__title text-cs'>
