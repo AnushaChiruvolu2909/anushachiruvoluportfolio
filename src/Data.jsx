@@ -173,10 +173,10 @@ export const skills = [
 
   {
     id: 11,
-    name: 'Express.js',
-    percentage: 35,
+    name: '.NET/C#',
+    percentage: 75,
     description:
-      'Building basic server-side applications with Express.js.',
+      'Advanced skills in developing server-side applications using .NET Framework and .NET Core, including RESTful API design and implementation.',
   },
 
   {
@@ -192,6 +192,13 @@ export const skills = [
     percentage: 85,
     description:
       'Version control, branching, and collaboration using Git and GitHub.',
+  },
+  {
+    id: 14,
+    name: 'RESTful APIs',
+    percentage: 85,
+    description:
+      'Design and development of secure, efficient RESTful APIs with optimized performance.',
   },
 
   
