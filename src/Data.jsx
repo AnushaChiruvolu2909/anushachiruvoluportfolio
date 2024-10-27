@@ -205,7 +205,14 @@ export const skills = [
 ];
 
 export const projects = [
- 
+   {
+    id: 1,
+    img: Project1,
+    category: 'India',
+    title: 'Senior Software Engineer',
+    description:
+      'Project :Fin Fusion',
+  },
   {
     id: 2,
     img: Project2,
@@ -263,7 +270,15 @@ export const cv = [
       'Studied State Syllabus with Maths, Physics, biology as Majors along with local Languages.',
     category: 'education',
   },
-
+  {
+    id: 6,
+    title: 'Senior Software Engineer',
+    subtitle: 'Citibank, Toronto, Canada',
+    date: 'February 2023 - August 2024',
+    description:
+      'Built a scalable architecture with Angular 14+, TypeScript, and dynamic module federation, leading a migration from AngularJS to React to enhance performance, maintainability, and user experience.',
+    category: 'experience',
+  },
  
   {
     id: 5,
