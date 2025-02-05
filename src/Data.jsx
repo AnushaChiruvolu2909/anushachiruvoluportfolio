@@ -1,4 +1,4 @@
-import Project1 from './assets/citbank.jpg';
+import Project1 from './assets/TD-Bank-Logo-1.png';
 import Project2 from './assets/salesforce.jpg';
 import Project3 from './assets/ehr-your-way.png';
 import Project4 from './assets/logo-infosys.png';
@@ -66,9 +66,16 @@ export const services = [
   {
     id: 2,
     name: ' Backend Development',
-    title: 'Node.js, .NET & Database',
+    title: 'Node.js, .NET, Java',
     description:
-      'Building scalable server-side applications. Building robust web applications with ASP.NET. Experience with SQL (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB) databases.',
+      'Building scalable and efficient server-side applications using Node.js, ASP.NET, and Spring Boot (Java).',
+  },
+  {
+    id: 3,
+    name: ' SQL Databases',
+    title: 'PostgreSQL, MySQL',
+    description:
+      'Proficient in working with SQL databases such as PostgreSQL and MySQL.',
   },
   
  
@@ -173,10 +180,10 @@ export const skills = [
 
   {
     id: 11,
-    name: '.NET/C#',
+    name: '.NET/C# & Java Spring Boot',
     percentage: 75,
     description:
-      'Advanced skills in developing server-side applications using .NET Framework and .NET Core, including RESTful API design and implementation.',
+      'Advanced skills in developing server-side applications using .NET Framework, .NET Core, and Java Spring Boot, with expertise in designing and implementing RESTful APIs and proficiency in C# and Java for building robust, maintainable backend systems.',
   },
 
   {
@@ -209,7 +216,7 @@ export const projects = [
     id: 1,
     img: Project1,
     category: 'India',
-    title: 'Senior Software Engineer',
+    title: 'Full Stack Developer',
     description:
       'Project :Fin Fusion',
   },
@@ -217,7 +224,7 @@ export const projects = [
     id: 2,
     img: Project2,
     category: 'India',
-    title: 'Demo Engineer',
+    title: 'Salesforce Developer',
     description:
       'Project :Integrated Force.com Solutions: End-to-End Salesforce Development & Support',
   },
@@ -225,7 +232,7 @@ export const projects = [
     id: 3,
     img: Project4,
     category: 'India',
-    title: 'Senior Front-End Developer / UI Specialist',
+    title: 'Technology Analyst',
     description:
       'Project :ARCH Insurance, Arch Cap Group',
   },
@@ -233,7 +240,7 @@ export const projects = [
     id: 4,
     img: Project3,
     category: 'India',
-    title: 'Front End Developer & UI/UX Designer',
+    title: 'Software Developer',
     description:
       'Project 1: EHR Your Way, Medical Office Solutions & APIT Portal Application, Andhra Pradesh Government ',
   },
@@ -272,17 +279,17 @@ export const cv = [
   },
   {
     id: 6,
-    title: 'Senior Software Engineer',
-    subtitle: 'Citibank, Toronto, Canada',
-    date: 'February 2023 - August 2024',
+    title: 'Senior Full Stack Developer',
+    subtitle: 'TD Bank, Toronto, Canada',
+    date: 'March 2023 - Dec 2024',
     description:
-      'Built a scalable architecture with Angular 14+, TypeScript, and dynamic module federation, leading a migration from AngularJS to React to enhance performance, maintainability, and user experience.',
+      'Led the migration of a frontend application from AngularJS to Angular v16, while also enhancing the backend with Java Spring Boot, refactoring components, optimizing routing, and implementing state management with NgRx for improved performance and maintainability.',
     category: 'experience',
   },
  
   {
     id: 5,
-    title: 'Demo Engineer',
+    title: 'Salesforce Developer',
     subtitle: 'Salesforce, Inc., Hyderabad, India',
     date: 'February 2022 - February 2023',
     description:
@@ -291,7 +298,7 @@ export const cv = [
   },
   {
     id: 4,
-    title: 'Senior Front-End Developer / UI Specialist',
+    title: 'Senior Developer',
     subtitle: 'Infosys Pvt. Ltd, Hyderabad, India',
     date: 'February 2019 - January 2022 ',
     description:
@@ -300,7 +307,7 @@ export const cv = [
   },
   {
     id: 3,
-    title: 'Front End Developer & UI/UX Designer',
+    title: 'Software Developer',
     subtitle: 'KJ Systems Pvt Ltd., Hyderabad, India',
     date: 'August 2014 - December 2018',
     description:

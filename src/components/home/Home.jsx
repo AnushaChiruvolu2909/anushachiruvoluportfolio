@@ -7,7 +7,7 @@ import { Link } from 'react-scroll';
 import { CiLinkedin   } from 'react-icons/ci';
 import { FaGithub } from "react-icons/fa";
 
-import CV from '../../assets/Anusha Chiruvolu Full-Stack-Developer.pdf';
+import CV from '../../assets/Anusha Chiruvolu - Full Stack Developer.pdf';
 import './home.css';
 
 const Home = () => {
@@ -24,7 +24,7 @@ const Home = () => {
           </h1>
 
           <p className='home__job'>
-            <span className='text-cs'>I Am</span> <b>Seasoned Front-End Developer</b>
+            <span className='text-cs'>I Am</span> <b>Seasoned Fullstack Developer</b>
           </p>
 
           <div className='home__img-wrapper'>
@@ -56,7 +56,7 @@ const Home = () => {
           </div>
 
           <p className='home__text'>
-          UI/UX Lead with 9+ Years of Experience in Web and Enterprise Solutions
+          Full Stack Developer with 9+ years of experience in front-end and back-end web and enterprise solutions
           </p>
 
           <div className='home__socials'>
